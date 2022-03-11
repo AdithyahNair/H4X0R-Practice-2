@@ -29,7 +29,7 @@ class NetworkManager: ObservableObject {
                 }
                 
             }
-            task.resume()
+            task.resume() // resumes the task after creating the session and calling the datatask
         }
     }
 }
