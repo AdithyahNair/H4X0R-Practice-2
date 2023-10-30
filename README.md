@@ -1,6 +1,6 @@
 # H4X0R-Practice-2
 
-A project based on Dr. Angela Yu's iOS development course. This application implements the power of SwiftUI to program an application completely through code.
+A project based on Dr. Angela Yu's iOS development course. This application implements the power of **SwiftUI** to program an application completely through code.
 
 ## Introduction
 
